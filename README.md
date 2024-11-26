@@ -2,7 +2,7 @@ log-pilot
 =========
 
 
-[![Quick Deploy](https://img2.baidu.com/it/u=4188371850,2362992639&fm=253&fmt=auto&app=138&f=JPEG?w=380&h=380)](https://acs.console.aliyun.com/quick-deploy?repoUrl=https://github.com/Wanton-y/helm-charts.git&branch=main)
+[![Quick Deploy](https://img2.baidu.com/it/u=4188371850,2362992639&fm=253&fmt=auto&app=138&f=JPEG?w=380&h=380)](https://acs.console.aliyun.com/quick-deploy?repoUrl=https://github.com/Wanton-y/log-pilot.git&branch=master)
 
 [![CircleCI](https://circleci.com/gh/AliyunContainerService/log-pilot.svg?style=svg)](https://circleci.com/gh/AliyunContainerService/log-pilot)
 [![Go Report Card](https://goreportcard.com/badge/github.com/AliyunContainerService/log-pilot)](https://goreportcard.com/report/github.com/AliyunContainerService/log-pilot)
